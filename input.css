@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: "font1";
+    src: url(fonts/Far.Danesh-Fontjo.com/Far.Danesh.ttf);
+}
+
+@font-face {
+    font-family: "font2";
+    src: url(fonts/Mj_Nadine-Fontjo.com/Mj_Nadine.ttf);
+}
+
+@font-face {
+    font-family: "font3";
+    src: url(fonts/Mj_Parand-Fontjo.com/Mj_Parand.TTF);
+}
+
+
+.font1 {
+    font-family: "font1";
+}
+
+.font2 {
+    font-family: "font2";
+}
+
+.font3 {
+    font-family: "font3";
+   
+}
+
+
+@layer base{
+   
+    @font-face {
+        font-family: pori;
+        src: url(fonts/Far.Danesh-Fontjo.com/);
+    }
+
+    @font-face {
+        font-family: pori2;
+        src: url(fonts/Mj_Nadine-Fontjo.com/);
+    }
+
+}
+
+
+@layer components{
+
+
+
+
+
+
+}
+
+
+@layer utilities{
+
+
+
+
+
+
+}
+
+@layer theme{
+
+
+
+}
+
+
+
+@keyframes footer {
+
+    0% {
+        background-image: linear-gradient(140deg, gray 40%, black 40%);
+    }
+
+    20% {
+        background-image: linear-gradient(100deg, gray 40%, black 40%);
+
+    }
+
+    40% {
+        background-image: linear-gradient(180deg, gray 40%, black 40%);
+
+    }
+
+    60% {
+        background-image: linear-gradient(320deg, gray 40%, black 40%);
+
+    }
+
+    80% {
+        background-image: linear-gradient(240deg, gray 40%, black 40%);
+
+    }
+
+    98% {
+
+        background-image: linear-gradient(140deg, gray 40%, black 40%);
+
+    }
+
+    100% {
+
+        background-image: linear-gradient(140deg, gray 40%, black 40%);
+
+    }
+
+}
+
+
+
+
+
+
+
+
