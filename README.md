@@ -6,6 +6,7 @@
 
 Built with **HTML5** & **Tailwind CSS**
 
+
 Live Demo 👇
 
 ### 🌐 https://poria-dev.github.io/tailwind_responsive_PoriShop2/
